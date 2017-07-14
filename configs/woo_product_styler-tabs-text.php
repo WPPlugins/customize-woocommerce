@@ -1,0 +1,2 @@
+<?php
+$group = array(	'label' => __('Active Tabs Text Color','woocommerce-styler'),	'id' => '6111410313',	'master' => 'pp_tabs_text_color',	'fields' => array(		'pp_tabs_text_color'	=>	array(			'label'		=> 	__('Text Color','woocommerce-styler'),          'caption'   =>  '',			'type'		=>	'colorpicker',			'default'	=> 	'',		),	),	'styles'	=> array(		'minicolors.css',	),	'scripts'	=> array(		'minicolors.js',	),	'multiple'	=> false,);
